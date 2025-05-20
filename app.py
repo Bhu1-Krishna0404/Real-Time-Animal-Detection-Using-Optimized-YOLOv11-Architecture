@@ -20,7 +20,7 @@
 # app.config['RESULTS_FOLDER'] = RESULTS_FOLDER
 
 # # Load the YOLO model
-# model = YOLO('D:/SHIVAA/CODES/YOLO/yolo.v1i.yolov8/runs/detect/train9/weights/best.pt')  # Path to your trained YOLO weights
+# model = YOLO('D:/your file location/yolo.v1i.yolov8/runs/detect/train9/weights/best.pt')  # Path to your trained YOLO weights
 
 # app.secret_key = 'supersecretkey'
 
